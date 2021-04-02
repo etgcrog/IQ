@@ -1,6 +1,6 @@
 [GERAL]
-email = etgcrog@gmail.com
-password = udvf100%
+email = *****************
+password = *************
 balance = REAL
 stop_win = 50
 stop_loss = 20

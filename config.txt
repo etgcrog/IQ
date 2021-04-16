@@ -1,13 +1,13 @@
 [GERAL]
-email = *****************
-password = *************
-balance = REAL
-stop_win = 50
-stop_loss = 20
-martingale = S
+email = etgcrog@gmail.com
+password = udvf100%
+balance = PRACTICE
+stop_win = 60
+stop_loss = 30
+martingale = N
 sorosgale = N
 niveis = 1
-valor_entrada = 2
+valor_entrada = 3.5
 
 [telegram]
 telegram_token = 1681603559:AAHYwg1GgDO5iYzGEp7wMJkTDTA1fBrnNJc
